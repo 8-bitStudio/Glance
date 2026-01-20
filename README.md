@@ -1,6 +1,8 @@
 # Glance
 Glance is a Rapid Serial Visual Presentation speed tool built in python to help you read faster!
 
+The average reading speed of an adult is 250 WPM. Glance helps you read faster and trains you to remember more
+
 
 
 # Features
