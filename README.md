@@ -16,6 +16,8 @@ Auto centers a word then highlights the middle to red to help your eyes stay in 
 
 Use arrow keys to skip or go back 10 words
 
+Custom fonts
+
 
 # How to install
 Glance is a tool built purely in python, make sure you have the latest version installed.
@@ -33,12 +35,11 @@ if you get errors such as ModuleNotFoundError: No module named 'tkinter' use the
 
 # Road map
 
-Pdf and eBook support
+Pdf and eBook support [Biggest priority]
 
 
 Save reading progress
 
 
-Custom fonts
 
 
